@@ -1,4 +1,4 @@
-# github-api
+# github-api 💻😸
 
 ## Description
 The GitHub API is a responsive web application that integrates with the GitHub platform through queries to its RESTful API. It provides users with the capability to search for GitHub user profiles and access detailed information about them. This API is a valuable tool for those who wish to explore profiles of other developers, identify project collaborators, and obtain relevant information about their activities and contributions on GitHub. It is a practical solution for discovering and analyzing developer profiles within the GitHub community.
